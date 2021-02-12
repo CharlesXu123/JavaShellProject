@@ -1,0 +1,12 @@
+Class name: UnitCommand
+Parent class (if any): none
+Subclasses: all commands
+
+Responsibilities:
+*allow commands to handle errors 
+*allow commands to send their outputs to StandardOutput
+
+Collaborators:
+*ErrorHandler
+*StandardOutput
+*FileSystem

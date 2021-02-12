@@ -1,0 +1,9 @@
+Class name: Concatenation
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*Output the content of specified file(s) concatenated together
+
+Collaborators:
+*File

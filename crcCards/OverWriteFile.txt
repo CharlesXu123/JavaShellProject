@@ -1,0 +1,11 @@
+Class name: OverWriteFile
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*If no file is specified, output the given string by the user
+*If specified file does exist, overwrites its content with the given string by the user
+*If specified file does not exist, creates the file and fill its content with the given string by the user
+
+Collaborators:
+*AppendFile

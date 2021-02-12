@@ -1,0 +1,9 @@
+Class name: DirectoryStack
+Parent class (if any): none
+Subclasses: none
+
+Responsibilities:
+*store list of paths in stack
+
+Collaborators:
+*none

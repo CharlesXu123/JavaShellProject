@@ -1,0 +1,9 @@
+Class name: Exit
+Parent class: UnitCommand
+Subclasses: None 
+
+Responsibilities:
+*Safely end the session and exit the shell
+
+Collaborators:
+*JShell

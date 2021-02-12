@@ -1,0 +1,9 @@
+Class name: ChangeDirectory
+Parent class: UnitCommand
+Subclasses: None 
+
+Responsibilities:
+*Change working directory to the specified location
+
+Collaborators:
+*Directory

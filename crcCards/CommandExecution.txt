@@ -1,0 +1,23 @@
+Class name: CommandExecution
+Parent class (if any): none
+Subclasses: none
+
+Responsibilities:
+*execute the parsed command that the user requests
+*informs commands of current working directory
+
+Collaborators:
+*ChangeDirectory
+*Concatenation
+*Echo
+*Exit
+*History
+*List
+*MakeDirectory
+*Manual
+*PopDirectory
+*PushDirectory
+*PrintWorkingDirectory
+*AppendFile
+*OverWriteFile
+*UnitCommand

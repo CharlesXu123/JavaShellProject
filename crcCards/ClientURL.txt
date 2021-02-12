@@ -1,0 +1,9 @@
+Class name: ClientURL
+Parent class (if any): UnitCommand
+Subclasses: none
+
+Responsibilities:
+*Retrieve the file in a URL and add it to the current working directory.and add it to the current working directory.le at that URL
+
+Collaborators:
+*FileSystem

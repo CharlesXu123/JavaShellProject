@@ -1,0 +1,14 @@
+Class name: List
+Parent class: UnitCommand
+Subclasses: None 
+
+Responsibilities:
+*Output all the file(s) and directory(s) of the specified directory
+*Output the file name of the specified file
+*Output all the file(s) and directory(s) of the specified directory recursively
+*Output an error message if the specified file or directory does not exist
+
+Collaborators:
+*Directory
+*UnitFileSystemComponent
+*File

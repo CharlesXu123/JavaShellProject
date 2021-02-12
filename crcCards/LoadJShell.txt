@@ -1,0 +1,12 @@
+Class name: LoadJShell
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*Reinitialized everything that was saved previously by saveJShell. 
+
+Collaborators:
+*Directory
+*DirectoryStack
+*File
+*HistoryArray

@@ -1,0 +1,10 @@
+Class name: Remove
+Parent class (if any): UnitCommand
+Subclasses: none
+
+Responsibilities:
+*Delete files in a Directory.
+*Delete a Directory.
+
+Collaborators:
+*FileSystem

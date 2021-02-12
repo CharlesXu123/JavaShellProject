@@ -1,0 +1,9 @@
+Class name: Echo
+Parent class (if any): UnitCommand
+Subclasses: none
+
+Responsibilities:
+*output the given string by the user
+
+Collaborators:
+*AppendFile

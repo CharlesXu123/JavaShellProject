@@ -1,0 +1,13 @@
+Class name: AppendFile
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*If specified file does exist, appends its content with the given string by 
+the user
+*If specified file does not exist, creates the file and fill its content with 
+the given string by the user
+
+Collaborators:
+*File
+*Directory

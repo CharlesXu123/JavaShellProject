@@ -1,0 +1,10 @@
+Class name: History
+Parent class: UnitCommand
+Subclasses: None 
+
+Responsibilities:
+*output specified number of most recent user-typed commands regardless of syntactical correctness.
+
+Collaborators:
+*HistoryArray
+*HistoryArrayI

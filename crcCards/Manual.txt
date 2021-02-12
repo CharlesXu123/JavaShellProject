@@ -1,0 +1,9 @@
+Class name: Manual
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*Output documentation of a specified command
+
+Collaborators:
+*CommandExecution

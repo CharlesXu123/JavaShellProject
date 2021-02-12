@@ -1,0 +1,12 @@
+Class name: SaveJShell
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*Save everything in current JShell to a file.
+
+Collaborators:
+*DirectoryStack
+*FileSystem
+*List
+*History

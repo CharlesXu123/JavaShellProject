@@ -1,0 +1,9 @@
+Class name: PrintWorkingDirectory
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*Output the current working directory as a full path 
+
+Collaborators:
+*Directory

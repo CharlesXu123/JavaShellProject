@@ -1,0 +1,10 @@
+Class name: MakeDirectories
+Parent class: UnitCommand
+Subclasses: None
+
+Responsibilities:
+*Create two empty directories in the specified location
+*Output error messages if failed to create either directory 
+
+Collaborators:
+*Directory

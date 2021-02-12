@@ -1,0 +1,13 @@
+Class name: FileSystem
+Parent class (if any): none
+Subclasses: none
+
+Responsibilities:
+*keep track of all the files and directories in the file system
+*check the location of given path
+*add files and directories from directories 
+
+Collaborators:
+*UnitFileSystemComponent
+*Directory
+*File

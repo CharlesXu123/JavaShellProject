@@ -1,0 +1,12 @@
+Class name: Move
+Parent class (if any): UnitCommand
+Subclasses: none
+
+Responsibilities:
+*Delete a file and move it to a new location.
+*Delete a Directory and move it to a new location recursively.
+
+Collaborators:
+*FileSystem
+*Copy
+*Remove

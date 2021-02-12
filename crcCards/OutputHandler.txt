@@ -1,0 +1,13 @@
+Class name: OutputHandler
+Parent class (if any): none
+Subclasses: none
+
+Responsibilities:
+*display or redirect appropriate outputs on JShell
+*display the outputs on JShell or redirect it to a file
+
+Collaborators:
+*File
+*Directory
+*FileSystem
+*ErrorHandler

@@ -1,0 +1,10 @@
+Class name: UnitFileSystemComponent
+Parent class (if any): none
+Subclasses: File, Directory.
+
+Responsibilities:
+*store the basic the information of a component in file system.
+*get the basic the information of a component in file system.
+
+Collaborators:
+*Directory

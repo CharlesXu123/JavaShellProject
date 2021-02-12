@@ -1,0 +1,9 @@
+Class name: Parser
+Parent class (if any): none 
+Subclasses: none
+
+Responsibilities:
+*parse user input to retrieve command name and appropriate list of arguments
+
+Collaborators:
+*ErrorHandler

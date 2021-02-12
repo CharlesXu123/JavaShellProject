@@ -1,0 +1,10 @@
+Class name: PopDirectory
+Parent class: UnitCommand
+Subclasses: None 
+
+Responsibilities:
+*Change working directory into the most recently saved directory and then delete that saved directory's history  
+*Output an error message if the saved directory history is empty
+
+Collaborators:
+*DirectoryStack

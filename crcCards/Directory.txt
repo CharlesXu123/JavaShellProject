@@ -1,0 +1,10 @@
+Class name: Directory
+Parent class (if any): UnitFileSystemComponent
+Subclasses: none
+
+Responsibilities:
+*store (sub)-directories or files
+*get a list of all the names of components inside a directory
+
+Collaborators:
+*none

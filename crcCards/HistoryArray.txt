@@ -1,0 +1,10 @@
+Class name: HistoryArray
+Parent class: HistoryArrayI
+Subclasses: None 
+
+Responsibilities:
+*edits the history array
+*output the history array
+
+Collaborators:
+*None

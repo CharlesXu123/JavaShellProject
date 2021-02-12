@@ -1,0 +1,10 @@
+Class name: Tree
+Parent class (if any): UnitCommand 
+Subclasses: none
+
+Responsibilities:
+*Display the entire mock file system as a tree
+
+Collaborators:
+*Directory
+*UnitFileSystemComponent

@@ -1,0 +1,9 @@
+Class name: ErrorHandler 
+Parent class (if any): none
+Subclasses: none
+
+Responsibilities:
+*provide appropriate error message to user
+
+Collaborators:
+*none

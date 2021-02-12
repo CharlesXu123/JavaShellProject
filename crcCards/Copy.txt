@@ -1,0 +1,10 @@
+Class name: Copy
+Parent class (if any): UnitCommand
+Subclasses: none
+
+Responsibilities:
+*Copy a file.
+*Copy a directory recursively.
+
+Collaborators:
+*FileSystem

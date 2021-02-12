@@ -1,0 +1,10 @@
+Class name: File
+Parent class (if any): UnitFileSystemComponent 
+Subclasses: none
+
+Responsibilities:
+*stores the data of a file
+*edits the contents of a file
+
+Collaborators:
+*none
